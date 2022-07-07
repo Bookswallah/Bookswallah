@@ -28,8 +28,8 @@ from cinderella.modules.connection import connect_button
 
 PM_START_TEXT = """
 _Hello_ *{}*
-_My name is_ *{}*\n_A Powerful Telegram ProBot to Manage Your Groups,feel free to add to your groups!!_
-_Maintained by_ [{}](tg://user?id={})
+coming soon bookswallah bot don't use me for now 
+_Powered by_ [{}](tg://user?id={})
 """
 
 
@@ -78,7 +78,7 @@ GDPR = []
 
 START_IMG = os.environ.get('START_IMG', None)
 if START_IMG is None:
-    img = "https://telegra.ph/file/511ad504656e712b88235.jpg"
+    img = "https://telegra.ph/file/40633ebef6c0b2f5ec7e7.jpg"
 else:
   img = START_IMG    
     
